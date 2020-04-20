@@ -1,0 +1,51 @@
+
+.name {
+	background-image: url(..//img/name.jpg);
+	height: 380px;
+	width: 100%;
+}
+
+.heading {
+	height: 680px;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+}
+
+.welcome_center{
+   margin: 0;
+}
+
+.first_text {
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	font-size: 60px;
+}
+
+section {
+	margin: 15px;
+}
+
+.card-body_1{
+	padding: 15px;
+}
+
+iframe {
+	width: 730px;
+	height: 330px;
+}
+
+h4{
+	text-align: center;
+	text-transform: uppercase;
+}
+h2 {
+	color: white;
+	text-align: center;
+	background:blue;
+	margin: 20px;
+	text-transform: uppercase;
+}
+
+
